@@ -96,8 +96,8 @@ body {
   max-width: 900px;
 }
 
-ul {
-  gap: 0.4rem;
+ul > * + * {
+  margin-top: 0.8rem;
 }
 
 ul li:nth-of-type(2n) a {
