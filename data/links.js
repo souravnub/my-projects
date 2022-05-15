@@ -13,6 +13,6 @@ const Links = [
     },
     {
         text: "homeVerse - house dealing website",
-        url: "https://home-verse.pages.dev",
+        url: "https://home-verse.netlify.app",
     },
 ];
