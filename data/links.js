@@ -11,4 +11,8 @@ const Links = [
         text: "color generator app",
         url: "https://color-generator-project.pages.dev",
     },
+    {
+        text: "homeVerse - house dealing website",
+        url: "https://home-verse.pages.dev",
+    },
 ];
