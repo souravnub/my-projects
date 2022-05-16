@@ -19,4 +19,8 @@ const Links = [
         text: "microsoft clone",
         url: "https://microsoft-clone-1.netlify.app",
     },
+    {
+        text: "gym-website",
+        url: "https://gym-website-1.netlify.app",
+    },
 ];
