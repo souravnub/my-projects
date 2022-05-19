@@ -23,4 +23,8 @@ const Links = [
         text: "gym-website",
         url: "https://gym-website-1.netlify.app",
     },
+    {
+        text: "light box responsive website",
+        url: "https://fontend-project-2-lightbox-website.netlify.app",
+    },
 ];
