@@ -25,6 +25,6 @@ const Links = [
     },
     {
         text: "light box responsive website",
-        url: "https://fontend-project-2-lightbox-website.netlify.app",
+        url: "https://frontend-project-2-lightbox-website.netlify.app",
     },
 ];
