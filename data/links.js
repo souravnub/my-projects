@@ -8,6 +8,10 @@ const Links = [
         url: "https://blog-website.pages.dev",
     },
     {
+        text: "movie app",
+        url: "https://t-movie-app.netlify.app",
+    },
+    {
         text: "color generator app",
         url: "https://color-generator-project.pages.dev",
     },
